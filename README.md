@@ -14,3 +14,7 @@ Each folder focuses on a specific topic/lesson:
 ### 02‑basic‑program  
 - Core concepts: variables, `Scanner` input, printing to console.
 
+### 02-Methods-Practice
+- Method creation and invocation
+- Return types and parameters
+- Input/Output using Scanner
