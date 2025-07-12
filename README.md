@@ -25,3 +25,10 @@ Each folder focuses on a specific topic/lesson:
 - ASCII value conversion using char and int
 - Simple usage of String and boolean types
 
+### 05-Operators
+- Arithmetic operators: +, -, *, /, %
+- Relational operators: ==, !=, >, <, >=, <=
+- Logical operators: &&, ||, !
+- Assignment operators used in methods
+- Unary operators: pre/post increment
+- Basic validation added for division and modulus
