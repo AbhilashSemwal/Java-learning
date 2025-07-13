@@ -32,3 +32,10 @@ Each folder focuses on a specific topic/lesson:
 - Assignment operators used in methods
 - Unary operators: pre/post increment
 - Basic validation added for division and modulus
+
+### 06-Control-Statements
+- Decision-making: if, else if, else, nested if
+- Multi-branching with switch-case
+- Loops: for loop (sum logic), while loop (multiplication table)
+- Used break and continue to control loop flow
+
