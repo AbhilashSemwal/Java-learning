@@ -39,3 +39,18 @@ Each folder focuses on a specific topic/lesson:
 - Loops: for loop (sum logic), while loop (multiplication table)
 - Used break and continue to control loop flow
 
+### 07-OOP-Basics (Classes, Objects, Constructors, Static)
+
+- Implemented basic OOP concepts using:
+  - Classes & Objects
+  - Constructors and `this` keyword
+  - Instance methods and fields
+  - Static variables and methods
+
+- **Programs Included:**
+  - `Student.java` – Constructor with parameters, method to print details
+  - `Car.java` – Class with instance method
+  - `Rectangle.java` – Compare area of two rectangles using object data
+  - `Counter.java` – Tracks number of objects created using static variable
+  - `Employee.java` – Class with static employee counter and detail printer
+  - `BankAccount.java` – Deposit, withdraw, balance methods with user input
