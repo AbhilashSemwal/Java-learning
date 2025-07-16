@@ -54,3 +54,15 @@ Each folder focuses on a specific topic/lesson:
   - `Counter.java` – Tracks number of objects created using static variable
   - `Employee.java` – Class with static employee counter and detail printer
   - `BankAccount.java` – Deposit, withdraw, balance methods with user input
+
+ ### 08-Encapsulation
+- Learned how to hide internal object data using `private` access modifiers
+- Implemented controlled access using `getters` and `setters`
+- Added validation logic in setters to protect object state
+- Used internal status messaging for clean and grouped output
+- Followed JavaBeans conventions for method naming
+
+**Programs Included:**
+- `EncapsulatedStudent.java`  
+  → Demonstrates private fields, validation in setters, controlled access with getters, and structured output with `printDetails()` method
+
